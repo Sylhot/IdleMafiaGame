@@ -1,0 +1,2 @@
+# IdleMafiaGame
+Click Game
